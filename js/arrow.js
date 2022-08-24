@@ -38,6 +38,21 @@ const number = 56; // Variable Expression
 
 
 const result = add6(10, 20);
-console.log(result);
+// console.log(result);
+// function getSum(a, b = 9) { return a + b; } console.log(getSum(2, 7));
+// const y = x => x * x; const z = y(5);
+// console.log(z);
+
+// const hero = ['fahad', 'rahad'];
+// const hero2 = [...hero]; //Copy of the array
+
+// const numbers = [10, 20, 30, 40, 50, 60, 70];
+// // const max = Math.max(...numbers);
+// const max = Math.max(...numbers);
+// console.log(max);
+
+// const cars = ['toyota', 'honda', 'mercedes'];
+// const newCars = [...cars, 'ferrari'];
+// console.log(newCars);
 
 // Interview Question About Arrow Function
